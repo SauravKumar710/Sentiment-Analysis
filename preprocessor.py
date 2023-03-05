@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: pranit
-# @Date:   2018-05-14 10:31:38
-# @Last Modified by:   pranit
-# @Last Modified time: 2018-05-15 08:06:52
-
 import string
 
 from nltk.corpus import stopwords as sw
